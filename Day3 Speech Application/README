@@ -1,0 +1,68 @@
+# 🔊 Text-to-Voice Application
+
+A simple and interactive web application that converts written text into natural-sounding speech using the Web Speech Synthesis API. Users can enter text, choose a voice (if supported), and listen to the spoken output directly in the browser.
+
+## 🚀 Features
+
+- 📝 Convert text into speech instantly
+- 🔊 High-quality speech synthesis
+- 🌐 Browser-based application (no installation required)
+- 🎨 Clean and responsive user interface
+- ⚡ Fast and easy to use
+- 📱 Works on desktop and mobile browsers (where supported)
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Web Speech Synthesis API
+
+## 📂 Project Structure
+
+```
+Text-to-Voice/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in a supported web browser.
+4. Enter the text you want to hear.
+5. Click the **Speak** button to listen to the generated speech.
+
+## 📸 Preview
+
+Add a screenshot or GIF of your application here.
+
+```
+images/preview.png
+```
+
+## 📚 What I Learned
+
+- Using the Web Speech Synthesis API
+- JavaScript event handling
+- DOM manipulation
+- Responsive web design
+- Browser compatibility for speech synthesis
+
+## 🎯 Future Improvements
+
+- Multiple language support
+- Voice selection
+- Adjustable speech rate, pitch, and volume
+- Pause, resume, and stop controls
+- Download generated speech as an audio file
+- Dark mode
+
+## 👨‍💻 Author
+
+**Aayush Shah**
+
+If you like this project, don't forget to ⭐ the repository!

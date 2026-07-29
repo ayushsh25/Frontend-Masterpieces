@@ -1,0 +1,67 @@
+# 🤖 Robot Joke Generator
+
+A fun and interactive web application that generates random jokes with a single click. The project fetches jokes from a public Joke API and displays them in a clean, responsive interface, making it a great beginner-friendly JavaScript project.
+
+## 🚀 Features
+
+- 🎭 Generates random jokes instantly
+- 🌐 Fetches jokes using a public REST API
+- ⚡ Fast and responsive user interface
+- 📱 Mobile-friendly design
+- 🎨 Simple and modern layout
+- 🔄 Generate unlimited jokes with one click
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Fetch API
+
+## 📂 Project Structure
+
+```
+Robot-Joke-Generator/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your web browser.
+4. Click the **Generate Joke** button to get a random joke.
+
+## 📸 Preview
+
+Add a screenshot or GIF of your project here.
+
+```
+images/preview.png
+```
+
+## 📚 What I Learned
+
+- Working with Fetch API
+- Handling asynchronous JavaScript
+- Parsing JSON data
+- DOM Manipulation
+- Event Handling
+- Responsive Web Design
+
+## 🎯 Future Improvements
+
+- Add text-to-speech for jokes
+- Save favorite jokes
+- Copy joke to clipboard
+- Share jokes on social media
+- Add loading animation and error handling
+
+## 👨‍💻 Author
+
+**Aayush Shah**
+
+If you like this project, don't forget to ⭐ the repository!
